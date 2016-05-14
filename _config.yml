@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jenkhong.github.io
+title: life of a working mom to-be
+email: jenkhong@gmail.com
+author: jenkhong
+description: Living life as it happens. 
+paginate: 3
+google_analytics: 
